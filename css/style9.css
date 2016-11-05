@@ -1,0 +1,28 @@
+BODY{
+background-color:#00CED1;
+font-family:sans-serif;
+}
+Div{
+width:500px;
+height:100px;
+Border-top:5px double green;
+Border-bottom:5px double green;
+background-color:white;
+margin:50px;
+padding:5px;
+}
+
+p{
+text-align:justify;
+text-indent:50px;
+padding:10px;
+}
+
+.prok{overflow-y:scroll;
+}
+.prok1{overflow:hidden;
+}
+.prok2{overflow:scroll;
+}
+
+   
